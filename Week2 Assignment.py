@@ -25,3 +25,4 @@ print("Index of value 30 in my_list:", index_30)
 
 # Print my_list
 print("Modified list:", my_list)
+
