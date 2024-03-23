@@ -33,6 +33,7 @@ def add_nums (a,b):
  
 #  Subtracting numbers
 
+
 def subtract_numbers(numbers):
     answer = numbers[0]
     for num in numbers[1:]:
@@ -78,7 +79,7 @@ while True:
         break
     numbers.append(float(num))
     
- calling the function 
+#calling the function 
 result = calculate(operation, numbers)
 if result is not None:
     print("The result is:", result)
