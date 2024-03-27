@@ -1,0 +1,102 @@
+<!DOCTYPE <html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML FORMS </title>
+</head>
+<body>
+    <form action="" method="post">
+        <label for="name">Name:</label>
+        <input type="text" name="name" id="name" placeholder="Enter Your Name" required>
+
+        <br>
+
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email" placeholder="john@mail.com">
+
+        <br>
+
+        <label for="Phone Number">Phone Number</label>
+        <input type="tel" id="Phone" name="Phone" placeholder="Enter Your Phone Number">
+
+
+
+        <br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" aria-placeholder=" Enter Your Password" placeholder="Enter your Password" 
+        aria-describedby="password hint"/> <div id="password hint">Password must be at least 8 characters long.</div>
+        
+        <br>
+
+        <label for="file">Upload File:</label>
+        <input type="file" id="file" name="file" accept="video/*">
+
+        <br>
+        
+        <fieldset>
+            <legend>Careers:</legend>
+        
+        <input type="checkbox" id="" name="Careers" value="I am a student">
+        <label for="student">I am a student</label>
+
+        <input type="checkbox" id="Engineer" name="Careers" value="Engineer">
+        <label for="Engineer">Engineer</label>
+
+        <input type="checkbox" id="Pharmacist" name="Careers" value="Pharmacist">
+        <label for="Pharmacist">Pharmacist</label>
+        
+        </fieldset>
+
+        <br>
+        
+        <br>
+
+        
+            <legend>Gender:</legend>
+        <input type="radio" id="male" name="gender" value="Male"> 
+        <label for="male">Male</label>
+
+        <input type="radio"id="female" name="gender" value="Female"> 
+        <label for="female">Female</label>
+
+        
+
+        <br>
+
+
+        <br>
+
+        <label for="car">Select a Car Model</label>
+        <select id="car" name="car">
+            <option value=""></option>
+            <option value="Toyota">Toyota</option>
+            <option value="Honda">Honda</option>
+            <option value="Mazda">Mazda</option>
+        </select>
+
+       <br>
+       
+        <br>
+
+        <textarea id="bio" name="bio" rows="10" cols="20">
+        Type in your bio.
+        </textarea>
+
+        <br>
+
+
+
+        <button type="submit">Save Details</button>
+        <br>
+        <input type="submit" value="Save">
+
+
+
+
+
+
+    </form>
+</body>
+</html>

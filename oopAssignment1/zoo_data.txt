@@ -1,0 +1,27 @@
+Lion,African Lion
+Tiger,Bengal Tiger
+Elephant,African Elephant
+Monkey,Spider Monkey
+Giraffe,Reticulated Giraffe
+Penguin,Emperor Penguin
+Zebra,Plains Zebra
+Kangaroo,Red Kangaroo
+Crocodile,Nile Crocodile
+Hippo,Hippopotamus
+Panda,Giant Panda
+Koala,Australian Koala
+Sloth,Three-Toed Sloth
+Ostrich,African Ostrich
+Rhino,Black Rhino
+Gorilla,Mountain Gorilla
+Cheetah,King Cheetah
+Hyena,Spotted Hyena
+Meerkat,Suricate
+Vulture,Lappet-Faced Vulture
+Eagle,Bald Eagle
+Parrot,African Grey Parrot
+Flamingo,Caribbean Flamingo
+Hummingbird,Ruby-Throated Hummingbird
+Owl,Great Horned Owl
+Toucan,Keel-Billed Toucan
+Peacock,Indian Peafowl
